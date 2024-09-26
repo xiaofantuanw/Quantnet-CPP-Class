@@ -1,0 +1,26 @@
+Find the Price, Delta, and Gamma of a European Put with the following parameter, using the Exact method:
+
+Spot:  108
+Strike:  120
+r = 4.5%
+T = 1.45
+sig = .51
+b = 0
+
+Find the Price, SD, and SE of the below Call using MC:
+
+Spot:  150
+Strike:  155
+r = 4%
+T = 1.28
+sig = .27
+b = r
+
+Find the price of the below Put using FDM:
+
+Spot:  65
+Strike:  70
+r = 6.5%
+T = .65
+sig = .35
+b = r

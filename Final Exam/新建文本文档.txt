@@ -1,0 +1,17 @@
+Question 1
+1. The cout, cin here should identify the namespace. It should be std::cout, std::cin
+2. In Line 17, the operator should be "<<" rather than ">>"
+3.
+
+Question 2
+1. Line 11, it should be if (this!=&source), or it cannot compare the address
+2. Line 10, the return type should be const Array<T> &
+3. Line 11 to Line 18, the code should be put in a bracket{}.
+4. Line 15, it should be i<m_size rather than i<=m_size, Or there will be one more element.
+5. Line 9 typename keyword is better than class
+
+Question 5
+1. Exact method
+put price: 31.7472
+put delta: -0.4179
+put gamma: 0.005584
